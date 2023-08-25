@@ -29,7 +29,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Morse code interpreter <a name="about-project"></a>
+# 📖 Create Ruby Enumerable <a name="about-project"></a>
 
 **Create Ruby Enumerable** is a project that consists of creating a custom version of Ruby's enumerable methods.
 
